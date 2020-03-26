@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e7193427f40df10804d13f5"},"name":"dilini","email":"dilini@gmailcom","salary":{"$numberInt":"37000"},"town":"dehiowita","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e7ae9952a3fc60c48b97614"},"name":"Tharanga","email":"kdt@gmail.com","salary":{"$numberInt":"300000"},"town":"Jaffna","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e7c42a40178ef238881672e"},"name":"dsfsd","email":"dil@gmail.com","salary":{"$numberInt":"3400"},"town":"Matara","__v":{"$numberInt":"0"}}
